@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi There, I'am Daniele Pipino! 👋</h1>
 <h3 align="center">A passionate Developer from Italy</h3>
+ <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/491/062/non_2x/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg"/>
 
 - 🔭 I’m currently working with **Angular, Kotlin, Java & SpringBoot**
 
@@ -13,7 +14,7 @@
 - 📫 How to reach me **Daniele.pipino.dev@gmail.com**
 
 - ⚡ Fun fact **Love working remotely**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniele-pipino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniele-pipino" height="30" width="40" /></a>
