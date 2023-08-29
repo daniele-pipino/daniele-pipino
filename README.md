@@ -1,4 +1,6 @@
-[![MasterHead](https://ridzeal.com/wp-content/uploads/2021/11/How-Software-Development-Company-Works.jpg)]()
+<!-- [![MasterHead](https://ridzeal.com/wp-content/uploads/2021/11/How-Software-Development-Company-Works.jpg)]() -->
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)]()
+
 <h1 align="center">Hi There, I'am Daniele Pipino! 👋</h1>
 <h3 align="center">A passionate Developer from Italy</h3>
 
