@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://ridzeal.com/wp-content/uploads/2021/11/How-Software-Development-Company-Works.jpg)]() -->
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)]()
 
-<h1 align="center">Hi There, I'am Daniele Pipino! 👋</h1>
+<h1 align="center">Hi There, I'm Daniele Pipino! 👋</h1>
 <h3 align="center">A passionate Developer from Italy</h3>
  <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/491/062/non_2x/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg"/>
 
